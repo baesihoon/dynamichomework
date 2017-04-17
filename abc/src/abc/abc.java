@@ -6,6 +6,8 @@ public class abc {
 		// TODO Auto-generated method stub
 		System.out.println("print!");
 		System.out.println("print!");
+		System.out.println("print!");
+		System.out.println("print!");
 	}
 
 }
